@@ -1,60 +1,68 @@
 # Mossad
 En este espacio se sube el código creado para el grupo
 
-Se debe agregar toda la documentación que ustedes consideren pertinente para la compresión de los modelos usados, la ejecución del código y los resultados obtenidos. Puden, si desean, agregar imágenes o resultados obtenidos.
+Se debe agregar toda la documentación que ustedes consideren pertinente para la compresión de los modelos usados, la ejecución del código y los resultados obtenidos. 
+Puden, si desean, agregar imágenes o resultados obtenidos. 
 
-Recuerden que este readme es su puerta de entrada para su proyecto.
+Recuerden que este readme es su puerta de entrada para su proyecto. 
 
-Un ejemplo puede ser:
-Nombre del Proyecto
+Un ejemplo puede ser: 
+# Nombre del Proyecto
 
 Breve descripción del proyecto.
-Tabla de contenidos
 
-    Nombre
-    Descripción
-    Arquitectura
-    Proceso
-    Funcionalidades
-    Estado del proyecto
-    Agradecimientos
+## Tabla de contenidos
 
-    Nombre del proyecto
+1. [Nombre](#Nombre)
+2. [Descripción](#descripción)
+3. [Arquitectura](#Arquitectura)
+4. [Proceso](#Proceso)
+5. [Funcionalidades](#Funcionalidades)
+6. [Estado del proyecto](#EstadoDelProyecto)
+7. [Agradecimientos](#Agradecimientos)
 
-    Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
-    Arquitectura del proyecto + imagen
+* Nombre del proyecto
 
-    Proceso de desarrollo:
+* Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
--Fuente del dataset -Limpieza de datos (img que lo valide) -Manejo excepciones/control errores -¿Qué modelo de Machine Learning están usando? -Estadísticos (Valores, gráficos, …) -Métrica(s) de evaluación del modelo
+* Arquitectura del proyecto + imagen
 
-    Funcionalidades extra:
+* Proceso de desarrollo:
+
+-Fuente del dataset
+-Limpieza de datos (img que lo valide)
+-Manejo excepciones/control errores
+-¿Qué modelo de Machine Learning están usando?
+-Estadísticos (Valores, gráficos, …)
+-Métrica(s) de evaluación del modelo
+
+* Funcionalidades extra:
 
 Ejem 1: Implementación de chatbot
-
-    Tecnología/Herramientas usadas (Librería, Framework, …)
-    Arquitectura (img)
-    Indicar fuente del dataset
-    Limpieza de datos (ejem: se usó PLN + img que lo validen)
-    Manejo excepciones/control errores
-    En caso de usar un modelo de ML indicar ¿Qué modelo de Machine Learning están usando?
-    Estadísticos (Valores, gráficos, …)
-    Métrica(s) de evaluación del modelo
+- Tecnología/Herramientas usadas (Librería, Framework, …)
+- Arquitectura (img)
+- Indicar fuente del dataset
+- Limpieza de datos (ejem: se usó PLN + img que lo validen)
+- Manejo excepciones/control errores
+- En caso de usar un modelo de ML indicar ¿Qué modelo de Machine Learning están usando?
+- Estadísticos (Valores, gráficos, …)
+- Métrica(s) de evaluación del modelo
 
 Ejem 2: Integración del proyecto en una pág web
-
-    Tecnología/Herramientas usadas …
-    Arquitectura (img)
+- Tecnología/Herramientas usadas …
+- Arquitectura (img)
 
 Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-
-    Tecnología/Herramientas usadas …
-    Arquitectura (img)
+- Tecnología/Herramientas usadas …
+- Arquitectura (img)
 
 Ejem 4: Desarrollo de interfaz gráfica de usuario
+- Tecnología/Herramientas usadas …
+- Arquitectura (img)
 
-    Tecnología/Herramientas usadas …
+Ejem …: …
+- Tecnología/Herramientas usadas …
     Arquitectura (img)
 
 Ejem …: …
